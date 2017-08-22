@@ -9,7 +9,7 @@ class Func extends Component {
       
       return(
         <div>
-          Show Function Here : {propInGameSubmit}
+          Show Function Here : 555{propInGameSubmit}
         </div>
       )
     }
